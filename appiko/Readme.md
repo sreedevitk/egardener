@@ -1,0 +1,1 @@
+ The repository for the firmware of the different Appiko projects containing the nRF5x SoCs.
